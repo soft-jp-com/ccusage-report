@@ -1,0 +1,8 @@
+# Binaries
+*.exe
+
+# Generated reports
+claude_usage_*.md
+
+# OS files
+.DS_Store
